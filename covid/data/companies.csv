@@ -1,0 +1,455 @@
+ticker,company,country,industry
+1,Commerzbank AG,Germany,Banks
+2,E.ON SE,Germany,Utilities
+3,Fresenius Medical Care AG,Germany,HealthCareEquipmentServices
+4,McKesson Europe AG,Germany,HealthCareEquipmentServices
+5,MAN SE,Germany,CapitalGoods
+6,CECONOMY AG,Germany,HotelsRestaurantsConsumerServices
+7,GEA Group AG,Germany,CapitalGoods
+8,Puma SE,Germany,HotelsRestaurantsConsumerServices
+9,RWE AG,Germany,Utilities
+10,Siemens AG,Germany,CapitalGoods
+11,Suedzucker AG,Germany,FoodBeverageTobacco
+12,TUI AG,Germany,HotelsRestaurantsConsumerServices
+13,Acciona SA,Spain,Utilities
+14,Acerinox SA,Spain,Materials
+15,ACS Actividades de Construccion y Servicios SA,Spain,CapitalGoods
+16,Banco de Sabadell SA,Spain,Banks
+17,Bankinter SA,Spain,Banks
+18,Banco Bilbao Vizcaya Argentaria SA,Spain,Banks
+19,Ebro Foods SA,Spain,FoodBeverageTobacco
+20,Enagas SA,Spain,Utilities
+21,Endesa SA,Spain,Utilities
+22,Fomento de Construcciones y Contratas SA,Spain,CapitalGoods
+23,Naturgy Energy Group SA,Spain,Utilities
+24,Promotora de Informaciones SA,Spain,MediaEntertainment
+25,Iberdrola SA,Spain,Utilities
+26,Industria de Diseno Textil SA,Spain,HotelsRestaurantsConsumerServices
+27,Indra Sistemas SA,Spain,SoftwareServices
+28,Minor Hotels Europe & Americas SA,Spain,HotelsRestaurantsConsumerServices
+29,Banco Santander SA,Spain,Banks
+30,Sacyr SA,Spain,CapitalGoods
+31,Zardoya Otis SA,Spain,CapitalGoods
+32,Air Liquide SA,France,Materials
+33,Societe BIC SA,France,CommercialProfessionalServices
+34,Bouygues SA,France,CapitalGoods
+35,Carrefour SA,France,HotelsRestaurantsConsumerServices
+36,Caisse Regionale de Credit Agricole Mutuel de Paris et d'Ile-de-France,France,Banks
+37,Danone SA,France,FoodBeverageTobacco
+38,Dassault Systemes SE,France,SoftwareServices
+39,Airbus SE,France,CapitalGoods
+40,EssilorLuxottica SA,France,HealthCareEquipmentServices
+41,Imerys SA,France,Materials
+42,JCDecaux SE,France,MediaEntertainment
+43,LVMH Moet Hennessy Louis Vuitton SE,France,HotelsRestaurantsConsumerServices
+44,Quadient SA,France,TechnologyHardwareEquipment
+45,Pernod Ricard SA,France,FoodBeverageTobacco
+46,Kering SA,France,HotelsRestaurantsConsumerServices
+47,Safran SA,France,CapitalGoods
+48,Cie de Saint-Gobain SA,France,CapitalGoods
+49,Societe Generale SA,France,Banks
+50,Sodexo SA,France,HotelsRestaurantsConsumerServices
+51,Television Francaise 1 SA,France,MediaEntertainment
+52,Thales SA,France,CapitalGoods
+53,Vantiva SA,France,TechnologyHardwareEquipment
+54,Vinci SA,France,CapitalGoods
+55,Veolia Environnement SA,France,Utilities
+56,Aggreko PLC,UK,CommercialProfessionalServices
+57,BAE Systems PLC,UK,CapitalGoods
+58,Balfour Beatty PLC,UK,CapitalGoods
+59,Barclays PLC,UK,Banks
+60,Barratt Developments PLC,UK,HotelsRestaurantsConsumerServices
+61,Bellway PLC,UK,HotelsRestaurantsConsumerServices
+62,Bunzl PLC,UK,CapitalGoods
+63,Capita PLC,UK,CommercialProfessionalServices
+64,Centrica PLC,UK,Utilities
+65,Close Brothers Group PLC,UK,Banks
+66,De La Rue PLC,UK,CommercialProfessionalServices
+67,Diageo PLC,UK,FoodBeverageTobacco
+68,ITV PLC,UK,MediaEntertainment
+69,Halma PLC,UK,TechnologyHardwareEquipment
+70,HSBC Holdings PLC,UK,Banks
+71,Kingfisher PLC,UK,HotelsRestaurantsConsumerServices
+72,Lloyds Banking Group PLC,UK,Banks
+73,Marks & Spencer Group PLC,UK,HotelsRestaurantsConsumerServices
+74,Meggitt PLC,UK,CapitalGoods
+75,Wm Morrison Supermarkets PLC,UK,HotelsRestaurantsConsumerServices
+76,Next PLC,UK,HotelsRestaurantsConsumerServices
+77,RELX PLC,UK,CommercialProfessionalServices
+78,Rentokil Initial PLC,UK,CommercialProfessionalServices
+79,Sage Group PLC/The,UK,SoftwareServices
+80,J Sainsbury PLC,UK,HotelsRestaurantsConsumerServices
+81,SSE PLC,UK,Utilities
+82,Smith & Nephew PLC,UK,HealthCareEquipmentServices
+83,Smiths Group PLC,UK,CapitalGoods
+84,Standard Chartered PLC,UK,Banks
+85,Tate & Lyle PLC,UK,FoodBeverageTobacco
+86,Reach PLC,UK,MediaEntertainment
+87,Whitbread PLC,UK,HotelsRestaurantsConsumerServices
+88,ACEA SpA,Italy,Utilities
+89,A2A SpA,Italy,Utilities
+90,Autogrill SpA,Italy,HotelsRestaurantsConsumerServices
+91,Intesa Sanpaolo SpA,Italy,Banks
+92,Banca Monte dei Paschi di Siena SpA,Italy,Banks
+93,Enel SpA,Italy,Utilities
+94,Leonardo SpA,Italy,CapitalGoods
+95,MFE-MediaForEurope NV,Italy,MediaEntertainment
+96,Mediobanca Banca di Credito Finanziario SpA,Italy,Banks
+97,Arnoldo Mondadori Editore SpA,Italy,MediaEntertainment
+98,Snam SpA,Italy,Utilities
+99,UniCredit SpA,Italy,Banks
+100,Mitchells & Butlers PLC,UK,HotelsRestaurantsConsumerServices
+101,HOCHTIEF AG,Germany,CapitalGoods
+102,ProSiebenSat.1 Media SE,Germany,MediaEntertainment
+103,Siemens Gamesa Renewable Energy SA,Spain,CapitalGoods
+104,Redeia Corp SA,Spain,Utilities
+105,Melia Hotels International SA,Spain,HotelsRestaurantsConsumerServices
+106,Dassault Aviation SA,France,CapitalGoods
+107,SEB SA,France,HotelsRestaurantsConsumerServices
+108,Burberry Group PLC,UK,HotelsRestaurantsConsumerServices
+109,Vesuvius PLC,UK,CapitalGoods
+110,Pagegroup PLC,UK,CommercialProfessionalServices
+111,Spirent Communications PLC,UK,TechnologyHardwareEquipment
+112,Weir Group PLC/The,UK,CapitalGoods
+113,Davide Campari-Milano NV,Italy,FoodBeverageTobacco
+114,Webuild SpA,Italy,CapitalGoods
+115,Tod's SpA,Italy,HotelsRestaurantsConsumerServices
+116,Draegerwerk AG & Co KGaA,Germany,HealthCareEquipmentServices
+117,Avenir Telecom,France,HotelsRestaurantsConsumerServices
+118,Coil,France,Materials
+119,Devoteam SA,France,SoftwareServices
+120,Proactis Sarl,France,SoftwareServices
+121,Wavestone,France,SoftwareServices
+122,TELES AG,Germany,HealthCareEquipmentServices
+123,DS Smith PLC,UK,Materials
+124,Atresmedia Corp de Medios de Comunicacion SA,Spain,MediaEntertainment
+125,Fresenius SE & Co KGaA,Germany,HealthCareEquipmentServices
+126,Morgan Advanced Materials PLC,UK,CapitalGoods
+127,Adtran Networks SE,Germany,TechnologyHardwareEquipment
+128,Croda International PLC,UK,Materials
+129,Eiffage SA,France,CapitalGoods
+130,Ramsay Generale de Sante SA,France,HealthCareEquipmentServices
+131,MAN SE,Germany,CapitalGoods
+132,NRJ Group,France,MediaEntertainment
+133,Kin & Carta PLC,UK,SoftwareServices
+134,Spirax-Sarco Engineering PLC,UK,CapitalGoods
+135,Solocal Group,France,MediaEntertainment
+136,Mediaset Espana Comunicacion SA,Spain,MediaEntertainment
+137,Marshalls PLC,UK,Materials
+138,Informa PLC,UK,MediaEntertainment
+139,Victrex PLC,UK,Materials
+140,Anglogold Ashanti Plc,UK,Materials
+141,Buzzi SpA,Italy,Materials
+142,Terna - Rete Elettrica Nazionale,Italy,Utilities
+143,Draegerwerk AG & Co KGaA,Germany,HealthCareEquipmentServices
+144,Banco di Desio e della Brianza SpA,Italy,Banks
+145,Bilfinger SE,Germany,CommercialProfessionalServices
+146,Renewi PLC,UK,CommercialProfessionalServices
+147,Salzgitter AG,Germany,Materials
+148,Amplifon SpA,Italy,HealthCareEquipmentServices
+149,Berkeley Group Holdings PLC,UK,HotelsRestaurantsConsumerServices
+150,Ferrovial SA,Spain,CapitalGoods
+151,Future PLC,UK,MediaEntertainment
+152,Eramet SA,France,Materials
+153,Geox SpA,Italy,HotelsRestaurantsConsumerServices
+154,Rheinmetall AG,Germany,CapitalGoods
+155,Pinewood Technologies Group PLC,UK,HotelsRestaurantsConsumerServices
+156,Entain PLC,UK,HotelsRestaurantsConsumerServices
+157,Ence Energia y Celulosa SA,Spain,Materials
+158,LANXESS AG,Germany,Materials
+159,Ashtead Group PLC,UK,CapitalGoods
+160,Dignity PLC,UK,HotelsRestaurantsConsumerServices
+161,Mersen SA,France,CapitalGoods
+162,Tubacex SA,Spain,Materials
+163,ERG SpA,Italy,Utilities
+164,Obrascon Huarte Lain SA,Spain,CapitalGoods
+165,Micro Focus International PLC,UK,SoftwareServices
+166,Interpump Group SpA,Italy,CapitalGoods
+167,K+S AG,Germany,Materials
+168,Engie SA,France,Utilities
+169,Alstom SA,France,CapitalGoods
+170,Teleperformance SE,France,CommercialProfessionalServices
+171,Electricite de France SA,France,Utilities
+172,Eutelsat Communications SACA,France,MediaEntertainment
+173,Bechtle AG,Germany,SoftwareServices
+174,Drax Group PLC,UK,Utilities
+175,KUKA AG,Germany,CapitalGoods
+176,Wacker Chemie AG,Germany,Materials
+177,Legrand SA,France,CapitalGoods
+178,FUCHS SE,Germany,Materials
+179,SThree PLC,UK,CommercialProfessionalServices
+180,Kloeckner & Co SE,Germany,CapitalGoods
+181,Wirecard AG,Germany,CommercialProfessionalServices
+182,General de Alquiler de Maquinaria SA,Spain,CapitalGoods
+183,Deutz AG,Germany,CapitalGoods
+184,Eurotech SpA,Italy,TechnologyHardwareEquipment
+185,Dunelm Group PLC,UK,HotelsRestaurantsConsumerServices
+186,Carl Zeiss Meditec AG,Germany,HealthCareEquipmentServices
+187,Symrise AG,Germany,Materials
+188,Viscofan SA,Spain,FoodBeverageTobacco
+189,Clinica Baviera SA,Spain,HealthCareEquipmentServices
+190,AmRest Holdings SE,Spain,HotelsRestaurantsConsumerServices
+191,Vocento SA,Spain,MediaEntertainment
+192,Prysmian SpA,Italy,CapitalGoods
+193,CompuGroup Medical SE & Co KgaA,Germany,HealthCareEquipmentServices
+194,Wacker Neuson SE,Germany,CapitalGoods
+195,Aeffe SpA,Italy,HotelsRestaurantsConsumerServices
+196,DiaSorin SpA,Italy,HealthCareEquipmentServices
+197,Italmobiliare SpA,Italy,CapitalGoods
+198,Parrot SA,France,TechnologyHardwareEquipment
+199,Grupo Ezentis SA,Spain,TechnologyHardwareEquipment
+200,Seche Environnement SACA,France,CommercialProfessionalServices
+201,FUCHS SE,Germany,Materials
+202,CaixaBank SA,Spain,Banks
+203,Fluidra SA,Spain,CapitalGoods
+204,Il Sole 24 Ore SpA,Italy,MediaEntertainment
+205,Audax Renovables SA,Spain,Utilities
+206,EDP Renovaveis SA,Spain,Utilities
+207,Suez SA,France,Utilities
+208,Arbuthnot Banking Group PLC,UK,Banks
+209,AG Barr PLC,UK,FoodBeverageTobacco
+210,Banco di Desio e della Brianza SpA,Italy,Banks
+211,GL Events SACA,France,CommercialProfessionalServices
+212,PLC SpA,Italy,CapitalGoods
+213,KME Group SpA,Italy,Materials
+214,KME Group SpA,Italy,Materials
+215,Be Shaping the Future SpA,Italy,SoftwareServices
+216,Softlab SpA,Italy,SoftwareServices
+217,Castings PLC,UK,Materials
+218,Costain Group PLC,UK,CapitalGoods
+219,Cewe Stiftung & Co KGAA,Germany,CommercialProfessionalServices
+220,Datalogic SpA,Italy,TechnologyHardwareEquipment
+221,De' Longhi SpA,Italy,HotelsRestaurantsConsumerServices
+222,Diploma PLC,UK,CapitalGoods
+223,Ercros SA,Spain,Materials
+224,Gesco SE,Germany,CapitalGoods
+225,Hill & Smith PLC,UK,Materials
+226,JD Sports Fashion PLC,UK,HotelsRestaurantsConsumerServices
+227,Juventus Football Club SpA,Italy,MediaEntertainment
+228,Kaufman & Broad SA,France,HotelsRestaurantsConsumerServices
+229,KSB SE & Co KGaA,Germany,CapitalGoods
+230,Miquel y Costas & Miquel SA,Spain,Materials
+231,Duro Felguera SA,Spain,CapitalGoods
+232,Mears Group PLC,UK,CommercialProfessionalServices
+233,Nemetschek SE,Germany,SoftwareServices
+234,Prim SA,Spain,HealthCareEquipmentServices
+235,Reno de Medici SpA,Italy,Materials
+236,Robert Walters PLC,UK,CommercialProfessionalServices
+237,Sabaf SpA,Italy,HotelsRestaurantsConsumerServices
+238,STRATEC SE,Germany,HealthCareEquipmentServices
+239,SOL SpA,Italy,Materials
+240,Ted Baker PLC,UK,HotelsRestaurantsConsumerServices
+241,Tribal Group PLC,UK,HotelsRestaurantsConsumerServices
+242,KSB SE & Co KGaA,Germany,CapitalGoods
+243,Acinque SpA,Italy,Utilities
+244,AS Roma SpA,Italy,MediaEntertainment
+245,Borgosesia SpA,Italy,CapitalGoods
+246,Centrale del Latte d'Italia,Italy,FoodBeverageTobacco
+247,Cembre SpA,Italy,CapitalGoods
+248,El.En. SpA,Italy,HealthCareEquipmentServices
+249,Emak SpA,Italy,HotelsRestaurantsConsumerServices
+250,Gefran SpA,Italy,TechnologyHardwareEquipment
+251,I Grandi Viaggi SpA,Italy,HotelsRestaurantsConsumerServices
+252,Monrif SpA,Italy,MediaEntertainment
+253,Mondo TV SpA,Italy,MediaEntertainment
+254,Rosss SpA,Italy,CommercialProfessionalServices
+255,Greenthesis SpA,Italy,CommercialProfessionalServices
+256,AlgoWatt SpA,Italy,TechnologyHardwareEquipment
+257,Valsoia SpA,Italy,FoodBeverageTobacco
+258,Vincenzo Zucchi SpA,Italy,HotelsRestaurantsConsumerServices
+259,Brenntag SE,Germany,CapitalGoods
+260,Currys PLC,UK,HotelsRestaurantsConsumerServices
+261,Superdry PLC,UK,HotelsRestaurantsConsumerServices
+262,Stroeer SE & Co KGaA,Germany,MediaEntertainment
+263,Tesmec SpA,Italy,CapitalGoods
+264,Berentzen-Gruppe AG,Germany,FoodBeverageTobacco
+265,bet-at-home.com AG,Germany,HotelsRestaurantsConsumerServices
+266,Edel SE & Co KGaA,Germany,MediaEntertainment
+267,MBB SE,Germany,CapitalGoods
+268,Bollore SE,France,MediaEntertainment
+269,Surteco Group SE,Germany,HotelsRestaurantsConsumerServices
+270,SLEEPZ AG,Germany,HotelsRestaurantsConsumerServices
+271,CHAPTERS Group AG,Germany,HealthCareEquipmentServices
+272,AST Groupe SA,France,HotelsRestaurantsConsumerServices
+273,Laboratoires Euromedis,France,HealthCareEquipmentServices
+274,Bigben Interactive,France,HotelsRestaurantsConsumerServices
+275,Encavis AG,Germany,Utilities
+276,NorCom Information Technology GmbH & Co KGaA,Germany,SoftwareServices
+277,Advanced Medical Solutions Group PLC,UK,HealthCareEquipmentServices
+278,Groupe Guillin,France,Materials
+279,OHB SE,Germany,CapitalGoods
+280,All for One Group SE,Germany,SoftwareServices
+281,Young & Co's Brewery PLC,UK,HotelsRestaurantsConsumerServices
+282,Nabaltec AG,Germany,Materials
+283,1000mercis,France,MediaEntertainment
+284,EuropaCorp,France,MediaEntertainment
+285,Logic Instrument,France,TechnologyHardwareEquipment
+286,Viscom AG,Germany,TechnologyHardwareEquipment
+287,MGI Digital Graphic Technology,France,TechnologyHardwareEquipment
+288,Mastrad SA,France,HotelsRestaurantsConsumerServices
+289,Mobotix AG,Germany,TechnologyHardwareEquipment
+290,Artefact SA,France,CommercialProfessionalServices
+291,Orege SA,France,CommercialProfessionalServices
+292,VITA 34 AG,Germany,HealthCareEquipmentServices
+293,Mediclin AG,Germany,HealthCareEquipmentServices
+294,Leifheit AG,Germany,HotelsRestaurantsConsumerServices
+295,Maschinenfabrik Berthold Hermle AG,Germany,CapitalGoods
+296,Intertainment AG,Germany,MediaEntertainment
+297,R Stahl AG,Germany,CapitalGoods
+298,SMT Scharf AG,Germany,CapitalGoods
+299,Nexus AG,Germany,HealthCareEquipmentServices
+300,LPKF Laser & Electronics SE,Germany,TechnologyHardwareEquipment
+301,Nicolas Correa SA,Spain,CapitalGoods
+302,Pyramid AG,Germany,TechnologyHardwareEquipment
+303,Webuild SpA,Italy,CapitalGoods
+304,Trifast PLC,UK,CapitalGoods
+305,TC Unterhaltungselektronik AG,Germany,HotelsRestaurantsConsumerServices
+306,7C Solarparken AG,Germany,Utilities
+307,SHS Viveon AG,Germany,SoftwareServices
+308,IVU Traffic Technologies AG,Germany,SoftwareServices
+309,Tas Tecnologia Avanzata dei Sistemi SpA,Italy,SoftwareServices
+310,GFT Technologies SE,Germany,SoftwareServices
+311,Nynomic AG,Germany,TechnologyHardwareEquipment
+312,mVISE AG,Germany,SoftwareServices
+313,Irce SpA,Italy,CapitalGoods
+314,Visibilia Editore SpA,Italy,MediaEntertainment
+315,Piscines Desjoyaux SA,France,HotelsRestaurantsConsumerServices
+316,ORAPI,France,Materials
+317,Coats Group PLC,UK,HotelsRestaurantsConsumerServices
+318,Colas SA,France,CapitalGoods
+319,Envea SA,France,TechnologyHardwareEquipment
+320,Fountaine Pajot SA,France,HotelsRestaurantsConsumerServices
+321,Prodware,France,SoftwareServices
+322,Emova Group SA,France,HotelsRestaurantsConsumerServices
+323,NSE,France,CapitalGoods
+324,DNXcorp SE,France,MediaEntertainment
+325,Trilogiq,France,CapitalGoods
+326,Voyageurs du Monde,France,HotelsRestaurantsConsumerServices
+327,Greiffenberger AG,Germany,CapitalGoods
+328,Hitechpros,France,SoftwareServices
+329,Oriole Resources PLC,UK,Materials
+330,YOC AG,Germany,MediaEntertainment
+331,HELMA Eigenheimbau AG,Germany,HotelsRestaurantsConsumerServices
+332,Akka Technologies,France,CommercialProfessionalServices
+333,MAN SE,Germany,CapitalGoods
+334,Wedia SA,France,SoftwareServices
+335,Salvatore Ferragamo SpA,Italy,HotelsRestaurantsConsumerServices
+336,Amadeus IT Group SA,Spain,HotelsRestaurantsConsumerServices
+337,RIB Software SE,Germany,SoftwareServices
+338,Cie des Alpes,France,HotelsRestaurantsConsumerServices
+339,Biosynex,France,HealthCareEquipmentServices
+340,Norma Group SE,Germany,CapitalGoods
+341,Moncler SpA,Italy,HotelsRestaurantsConsumerServices
+342,Klarsen SA,France,MediaEntertainment
+343,Verallia SA,France,Materials
+344,Clearvise AG,Germany,Utilities
+345,Distribuidora Internacional de Alimentacion SA,Spain,HotelsRestaurantsConsumerServices
+346,Concentric AB,UK,CapitalGoods
+347,Axway Software SA,France,SoftwareServices
+348,Catenon SA,Spain,CommercialProfessionalServices
+349,Adler Modemaerkte AG,Germany,HotelsRestaurantsConsumerServices
+350,Learning Technologies Group PLC,UK,CommercialProfessionalServices
+351,Visiomed Group SACA,France,HealthCareEquipmentServices
+352,Sesa SpA,Italy,TechnologyHardwareEquipment
+353,dotdigital group plc,UK,SoftwareServices
+354,NeXR Technologies SE,Germany,TechnologyHardwareEquipment
+355,Intrasense SAS,France,HealthCareEquipmentServices
+356,Sqli SA,France,SoftwareServices
+357,Pan African Resources PLC,UK,Materials
+358,OSRAM Licht AG,Germany,CapitalGoods
+359,Redcentric PLC,UK,SoftwareServices
+360,Coca-Cola HBC AG,Italy,FoodBeverageTobacco
+361,Coca-Cola HBC AG,Italy,FoodBeverageTobacco
+362,DCC PLC,UK,CapitalGoods
+363,Fnac Darty SA,France,HotelsRestaurantsConsumerServices
+364,Italia Independent Group SpA,Italy,HotelsRestaurantsConsumerServices
+365,Social Chain AG /The,Germany,MediaEntertainment
+366,Tarkett SADIR,France,CapitalGoods
+367,Grafton Group PLC,UK,CapitalGoods
+368,Implanet SA,France,HealthCareEquipmentServices
+369,Benchmark Holdings Plc,UK,FoodBeverageTobacco
+370,Carbios SACA,France,Materials
+371,Innovatec SpA,Italy,CapitalGoods
+372,Expert.ai SpA,Italy,SoftwareServices
+373,Applus Services SA,Spain,CommercialProfessionalServices
+374,FinecoBank Banca Fineco SpA,Italy,Banks
+375,Stabilus SE,Germany,CapitalGoods
+376,Fincantieri SpA,Italy,CapitalGoods
+377,Facephi Biometria SA,Spain,SoftwareServices
+378,Serge Ferrari SAS,France,Materials
+379,Tinexta Spa,Italy,CommercialProfessionalServices
+380,Lucibel SA,France,CapitalGoods
+381,Zalando SE,Germany,HotelsRestaurantsConsumerServices
+382,Uniper SE,Germany,Utilities
+383,Pullup Entertainment,France,MediaEntertainment
+384,DFS Furniture PLC,UK,HotelsRestaurantsConsumerServices
+385,Auto Trader Group PLC,UK,MediaEntertainment
+386,NHOA,France,CapitalGoods
+387,You have found the false company. Remove me!,Italy,???
+388,Cover 50 SpA,Italy,HotelsRestaurantsConsumerServices
+389,Biocorp,France,HealthCareEquipmentServices
+390,Grenergy Renovables SA,Spain,Utilities
+391,Avio SpA,Italy,CapitalGoods
+392,Giglio Group SpA,Italy,CapitalGoods
+393,Openjobmetis Spa agenzia per il lavoro,Italy,CommercialProfessionalServices
+394,BRAIN Biotech AG,Germany,Materials
+395,Flutter Entertainment PLC,UK,HotelsRestaurantsConsumerServices
+396,Senvion SA,Germany,CapitalGoods
+397,METRO AG,Germany,HotelsRestaurantsConsumerServices
+398,Joules Group PLC,UK,HotelsRestaurantsConsumerServices
+399,Kerlink SACA,France,TechnologyHardwareEquipment
+400,Motorpoint group PLC,UK,HotelsRestaurantsConsumerServices
+401,Coca-Cola Europacific Partners PLC,UK,FoodBeverageTobacco
+402,Midwich Group PLC,UK,TechnologyHardwareEquipment
+403,Cerinnov Group SA,France,CapitalGoods
+404,Abeo SA,France,HotelsRestaurantsConsumerServices
+405,Italgas SpA,Italy,Utilities
+406,Atrys Health SA,Spain,HealthCareEquipmentServices
+407,Finchain Capital Partners AG,Germany,HotelsRestaurantsConsumerServices
+408,Groupe Parot SACA,France,HotelsRestaurantsConsumerServices
+409,ConvaTec Group PLC,UK,HealthCareEquipmentServices
+410,Luceco PLC,UK,CapitalGoods
+411,ProCredit Holding AG,Germany,Banks
+412,Banco BPM SpA,Italy,Banks
+413,GPI SpA,Italy,HealthCareEquipmentServices
+414,Ultimate Products PLC,UK,HotelsRestaurantsConsumerServices
+415,Unieuro SpA,Italy,HotelsRestaurantsConsumerServices
+416,Neinor Homes SA,Spain,HotelsRestaurantsConsumerServices
+417,Prodways Group SA,France,CapitalGoods
+418,Indel B SpA,Italy,HotelsRestaurantsConsumerServices
+419,Medica Group PLC,UK,HealthCareEquipmentServices
+420,Aquafil SpA,Italy,HotelsRestaurantsConsumerServices
+421,TEN Entertainment Group PLC,UK,HotelsRestaurantsConsumerServices
+422,BF SpA,Italy,FoodBeverageTobacco
+423,Wiit SpA,Italy,SoftwareServices
+424,Finlogic SpA,Italy,CommercialProfessionalServices
+425,Asturiana de Laminados SA,Spain,Materials
+426,SIT SpA,Italy,TechnologyHardwareEquipment
+427,MYNARIC AGNAMENS AKTIEN O N,Germany,CapitalGoods
+428,Befesa SA,Spain,CommercialProfessionalServices
+429,ContourGlobal PLC,Spain,Utilities
+430,Greenalia SA,Spain,Utilities
+431,Siemens Healthineers AG,Germany,HealthCareEquipmentServices
+432,Vente-Unique.Com SA,France,HotelsRestaurantsConsumerServices
+433,STS Group AG,Germany,CapitalGoods
+434,Roche Bobois SAS,France,HotelsRestaurantsConsumerServices
+435,Knorr-Bremse AG,Germany,CapitalGoods
+436,RELX PLC,UK,CommercialProfessionalServices
+437,Linde PLC/old,UK,Materials
+438,Italian Exhibition Group SpA,Italy,MediaEntertainment
+439,Solarpack Corp Tecnologica SA,Spain,Utilities
+440,Comer Industries SpA,Italy,CapitalGoods
+441,Talea Group SpA,Italy,HotelsRestaurantsConsumerServices
+442,Iervolino & Lady Bacardi Entertainment SpA,Italy,MediaEntertainment
+443,TeamViewer SE,Germany,SoftwareServices
+444,Cyberoo SpA,Italy,SoftwareServices
+445,Newlat Food SpA,Italy,FoodBeverageTobacco
+446,Matica Fintec SpA,Italy,TechnologyHardwareEquipment
+447,La Francaise des Jeux SAEM,France,HotelsRestaurantsConsumerServices
+448,NVP Srl,Italy,MediaEntertainment
+449,Sanlorenzo SpA/Ameglia,Italy,HotelsRestaurantsConsumerServices
+450,Mare Nostrum SAS,France,CommercialProfessionalServices
+451,Gismondi 1754 SpA,Italy,HotelsRestaurantsConsumerServices
+452,Galliford Try Holdings PLC,UK,CapitalGoods
+453,Mediobanca Banca di Credito Finanziario SpA,Italy,Banks
+454,Redeia Corp SA,Spain,Utilities
